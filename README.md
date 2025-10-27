@@ -1,36 +1,56 @@
-<h1 align="center">Hi I,m Solaiman</h1>
 
-###
+<!-- Banner Image -->
+![Banner]([https://i.ibb.co/4tW4RkR/developer-banner.png](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/475372218_122195321486088617_2455287823341374616_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=rH5gr2DtEX0Q7kNvwE_Qnt9&_nc_oc=Adn2_3KUAzNOusA8QH0IBniQQKmWT5UMzgzNUyqUGK1OlubFxP7Uj2Ygs4oAPoK4hMM&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=QbSSjzup365tsHPxUW5mEA&oh=00_AfdwP_w4vrDvQY3FIHlZOaCAS1POaoiwM8vEYul0rHpmXQ&oe=6904F36B))
 
-<!-- <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<h1 align="center">Hi 👋, I'm Solaiman</h1>
+<h3 align="center">A Passionate MERN Stack & WordPress Developer from Bangladesh</h3>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-</div>
+### 💫 About Me
+- 🔭 I’m currently working as a **Remote WordPress Theme & Plugin Developer** for a USA-based company.  
+- 🌱 I’m currently learning **Next.js & Firebase Authentication**  
+- 👨‍💻 All of my projects are available at https://www.solaimanv.com 
+- 💬 Ask me about **React, Node.js, Express, MongoDB, WordPress**  
+- 📫 Reach me at **solaimanvm@gmail.com**  
+- ⚡ Fun fact: I love turning ideas into beautiful websites 🚀  
 
-###
+---
 
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,wordpress,html,css,tailwind,js,git,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=solaimanv&show_icons=true&theme=tokyonight" alt="solaiman stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solaimanv&theme=tokyonight" alt="solaiman streak" />
+</p>
+
+---
+
+### 📊 Top Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanv&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
 <div align="left">
   <a href="https://www.instagram.com/solaimanvm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="solaimanvm@gmail.com" target="_blank">
+  <a href="https://www.solaimanv.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.twitter.com/solaimanvm" target="_blank">
@@ -41,18 +61,6 @@
   </a>
 </div>
 
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+⭐️ From [Solaiman](https://github.com/solaimanv)
