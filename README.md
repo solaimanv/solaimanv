@@ -1,6 +1,6 @@
 
 <!-- Banner Image -->
-![Banner]([https://i.ibb.co/4tW4RkR/developer-banner.png](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/475372218_122195321486088617_2455287823341374616_n.png?stp=dst-png_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=rH5gr2DtEX0Q7kNvwE_Qnt9&_nc_oc=Adn2_3KUAzNOusA8QH0IBniQQKmWT5UMzgzNUyqUGK1OlubFxP7Uj2Ygs4oAPoK4hMM&_nc_zt=23&_nc_ht=scontent.fdac134-1.fna&_nc_gid=QbSSjzup365tsHPxUW5mEA&oh=00_AfdwP_w4vrDvQY3FIHlZOaCAS1POaoiwM8vEYul0rHpmXQ&oe=6904F36B))
+![Banner](https://github.com/solaimanv/solaimanv/blob/main/475372218_122195321486088617_2455287823341374616_n.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Solaiman</h1>
 <h3 align="center">A Passionate MERN Stack & WordPress Developer from Bangladesh</h3>
